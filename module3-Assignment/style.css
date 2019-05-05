@@ -67,6 +67,10 @@ a {
 	text-shadow: 1px 1px 1px white;
 	font-size: 35px !important;
 }
+
+li {
+ text-align: center;	
+}
 .container {
    width: 100%;
 }
